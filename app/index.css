@@ -36,6 +36,10 @@ li {
   background: transparent;
 }
 
+.btn-clear:hover {
+  cursor: pointer;
+}
+
 .nav-link {
   font-size: 18px;
   font-weight: bold;
